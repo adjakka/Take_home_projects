@@ -26,7 +26,8 @@ b. what statistical test(s) you will conduct to verify the significance of the
 observation
 c. how you would interpret the results and provide recommendations to the city
 operations team along with any caveats.
-Part 3 ‑ Predictive modeling
+
+### Part 3 ‑ Predictive modeling
 Ultimate is interested in predicting rider retention. To help explore this question, we have
 provided a sample dataset of a cohort of users who signed up for an Ultimate account in
 January 2014. The data was pulled several months later; we consider a user retained if they
